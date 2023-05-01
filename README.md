@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Moin84
-- 👀 I’m interested in Computer and Networking System & Security
+- 👀 Interested in Computer and Networking System & Security
