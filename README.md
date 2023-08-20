@@ -1,2 +1,2 @@
-- Hi, I’m @Moin84
+- Hi, it's @Moin84
 - Interested in Computer and Networking System & Security and AI
