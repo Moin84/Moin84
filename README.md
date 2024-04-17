@@ -1,1 +1,1 @@
-- hi, it's @Moin84, a machine learning enthusiast.
+- hi, it's Moin, a machine learning enthusiast.
