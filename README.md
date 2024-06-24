@@ -1,1 +1,1 @@
-- hi, i'm moin, a machine learning enthusiast.
+- Hi, I'm Moin, a Machine Learning Enthusiast.
