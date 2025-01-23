@@ -1,1 +1,1 @@
-- Hi, I'm Moin, a Machine Learning Enthusiast.
+- Hi, I'm Moin, an enthusiastic researcher with a strong interest in quantum computation and data science. Currently delving into quantum simulation and its applications, aiming to contribute to advancing computational and analytical techniques. Open to collaborations that explore innovative solutions in these fields.
